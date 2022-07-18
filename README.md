@@ -2,7 +2,7 @@
 <b>FOR DEVELOPMENT ONLY</b><br><br>
 :arrow_right: A simple Docker Symfony setup for beginners who want to play with the Symfony PHP framework. :sunglasses:
 
-<h3>This repository provides you:</h3>
+### This repository provides you:
 - php:8.1-cli + PHP extensions
 - Composer
 - Symfony CLI
@@ -10,18 +10,16 @@
 - NodeJS
 - Non-root user
 
-<h3>Requirements</h3>
+### Requirements
 - Linux OS
 - Docker
 - Docker-compose
 
-<h3>Installation</h3>
+### Installation
 1. Clone the repository
-
 ```
 git clone https://github.com/mrnavrc/Docker_Symfony_MSQL_Twig_For_Beginners.git
 ```
-
 2. Run the docker and docker-compose
 ```
 docker compose build
