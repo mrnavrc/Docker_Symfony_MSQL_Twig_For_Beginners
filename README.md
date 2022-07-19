@@ -1,4 +1,4 @@
-# Symfony, MSQL, Twig, Node with Docker (For Beginners)
+# Symfony, MySQL, Twig, Node with Docker (For Beginners)
 <b>FOR DEVELOPMENT ONLY</b><br><br>
 :arrow_right: A simple Docker Symfony setup for beginners who want to play with the Symfony PHP framework. :sunglasses:
 
@@ -6,7 +6,7 @@
 - php:8.1-cli + PHP extensions
 - Composer
 - Symfony CLI
-- MYSQL
+- MySQL
 - NodeJS
 - Non-root user
 
