@@ -36,5 +36,6 @@ symfony check:req
 5. Create Symfony web app
 ```
 symfony new project-name --webapp
+symfony server:start
 ```
 6. Great, your Symfony app is now available on: http://127.0.0.1:8000
